@@ -162,7 +162,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Se você tiver alguma dúvida ou sugestão, por favor:
 
 - Abra uma issue no GitHub
-- Entre em contato através do email: [seu-email@exemplo.com]
+- Entre em contato através do email: pedropaulobrasca@gmail.com
 
 ---
 
