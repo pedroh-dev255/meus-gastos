@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo Meus Gastos](public/favicon.ico)
+![Logo Meus Gastos](https://raw.githubusercontent.com/pedropaulobrasca/meus-gastos/refs/heads/main/public/icon.svg)
 
 Uma aplicação web moderna para controle de despesas pessoais, desenvolvida com as melhores tecnologias do mercado.
 
